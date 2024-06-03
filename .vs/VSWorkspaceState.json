@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources\\views\\LAYOUT"
+  ],
+  "SelectedNode": "\\database\\migrations\\0001_01_01_000003_hola,php",
+  "PreviewInSolutionExplorer": false
+}
